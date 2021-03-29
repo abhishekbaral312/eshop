@@ -1,1 +1,1 @@
-web. gunicorn eshop.wsgi
+web. gunicorn online-store-sumanelectronics.wsgi
